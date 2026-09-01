@@ -40,3 +40,8 @@ docker run -p 3000:3000 --env-file .env api-backend
 O pipeline em `.github/workflows/deploy-backend.yml` builda a imagem, publica no ECR
 com tag semântica e faz o deploy via SSH em uma instância EC2. Veja o `README.md`
 na raiz do projeto para o passo a passo completo.
+
+
+## Explicação em vídeo
+
+https://youtu.be/wv6KditGAAI
